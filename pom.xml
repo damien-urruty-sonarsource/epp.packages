@@ -35,108 +35,11 @@
 
   <profiles>
     <profile>
-      <id>epp.package.cpp</id>
-      <modules>
-        <module>packages/org.eclipse.epp.package.cpp</module>
-        <module>packages/org.eclipse.epp.package.cpp.feature</module>
-        <module>packages/org.eclipse.epp.package.cpp.product</module>
-      </modules>
-    </profile>
-    <profile>
-      <id>epp.package.dsl</id>
-      <modules>
-        <module>packages/org.eclipse.epp.package.dsl</module>
-        <module>packages/org.eclipse.epp.package.dsl.feature</module>
-        <module>packages/org.eclipse.epp.package.dsl.product</module>
-      </modules>
-    </profile>
-    <profile>
-      <id>epp.package.javascript</id>
-      <modules>
-        <module>packages/org.eclipse.epp.package.javascript</module>
-        <module>packages/org.eclipse.epp.package.javascript.feature</module>
-        <module>packages/org.eclipse.epp.package.javascript.product</module>
-        <!-- module>packages/org.eclipse.epp.package.frontend.tests</module-->
-      </modules>
-    </profile>
-    <profile>
       <id>epp.package.java</id>
       <modules>
         <module>packages/org.eclipse.epp.package.java</module>
         <module>packages/org.eclipse.epp.package.java.feature</module>
         <module>packages/org.eclipse.epp.package.java.product</module>
-      </modules>
-    </profile>
-    <profile>
-      <id>epp.package.jee</id>
-      <modules>
-        <module>packages/org.eclipse.epp.package.jee</module>
-        <module>packages/org.eclipse.epp.package.jee.feature</module>
-        <module>packages/org.eclipse.epp.package.jee.product</module>
-      </modules>
-    </profile>
-    <profile>
-      <id>epp.package.modeling</id>
-      <modules>
-        <module>packages/org.eclipse.epp.package.modeling</module>
-        <module>packages/org.eclipse.epp.package.modeling.feature</module>
-        <module>packages/org.eclipse.epp.package.modeling.product</module>
-      </modules>
-    </profile>
-    <profile>
-      <id>epp.package.parallel</id>
-      <modules>
-        <module>packages/org.eclipse.epp.package.parallel</module>
-        <module>packages/org.eclipse.epp.package.parallel.feature</module>
-        <module>packages/org.eclipse.epp.package.parallel.product</module>
-      </modules>
-    </profile>
-    <profile>
-      <id>epp.package.php</id>
-      <modules>
-        <module>packages/org.eclipse.epp.package.php</module>
-        <module>packages/org.eclipse.epp.package.php.feature</module>
-        <module>packages/org.eclipse.epp.package.php.product</module>
-      </modules>
-    </profile>
-    <profile>
-      <id>epp.package.rcp</id>
-      <modules>
-        <module>packages/org.eclipse.epp.package.rcp</module>
-        <module>packages/org.eclipse.epp.package.rcp.feature</module>
-        <module>packages/org.eclipse.epp.package.rcp.product</module>
-      </modules>
-    </profile>
-    <profile>
-      <id>epp.package.scout</id>
-      <modules>
-        <module>packages/org.eclipse.epp.package.scout</module>
-        <module>packages/org.eclipse.epp.package.scout.feature</module>
-        <module>packages/org.eclipse.epp.package.scout.product</module>
-      </modules>
-    </profile>
-    <profile>
-      <id>epp.package.committers</id>
-      <modules>
-        <module>packages/org.eclipse.epp.package.committers</module>
-        <module>packages/org.eclipse.epp.package.committers.feature</module>
-        <module>packages/org.eclipse.epp.package.committers.product</module>
-      </modules>
-    </profile>
-    <profile>
-      <id>epp.package.testing</id>
-      <modules>
-        <module>packages/org.eclipse.epp.package.testing</module>
-        <module>packages/org.eclipse.epp.package.testing.feature</module>
-        <module>packages/org.eclipse.epp.package.testing.product</module>
-      </modules>
-    </profile>
-    <profile>
-      <id>epp.package.rust</id>
-      <modules>
-        <module>packages/org.eclipse.epp.package.rust</module>
-        <module>packages/org.eclipse.epp.package.rust.feature</module>
-        <module>packages/org.eclipse.epp.package.rust.product</module>
       </modules>
     </profile>
   </profiles>
