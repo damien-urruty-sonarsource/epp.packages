@@ -208,6 +208,7 @@ United States, other countries, or both.
    </plugins>
 
    <features>
+      <feature id="org.eclipse.epp.package.java.feature" version="4.17.0.qualifier"/>
    </features>
 
 
